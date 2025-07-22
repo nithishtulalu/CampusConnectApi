@@ -2,7 +2,7 @@
 
 namespace CampusConnectAPI.Models
 {
-    public class Transaction
+    public class TransactionRecord
     {
         [Key]
         public Guid TransactionId { get; set; }

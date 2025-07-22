@@ -20,7 +20,7 @@ namespace CampusConnectAPI
         public DbSet<Attendance> Attendances { get; set; }
 
         public DbSet<Fee> Fees { get; set; }
-        public DbSet<Transaction> Transactions { get; set; }
+        public DbSet<TransactionRecord> Transactions { get; set; }
         public DbSet<Book> Books { get; set; }
         public DbSet<BorrowHistory> BorrowHistories { get; set; }
         public DbSet<Event> Events { get; set; }
@@ -92,7 +92,7 @@ namespace CampusConnectAPI
 
             //fee -> Transactions
 
-            modelBuilder.Entity<Transaction>()
+            modelBuilder.Entity<TransactionRecord>()
                 .HasOne(t => t.Fee)
                 .WithMany(f => f.Transactions)
                 .HasForeignKey(t => t.FeeId);

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\implementation\\feetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\implementation\\feetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\interfaces\\ifeetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\interfaces\\ifeetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +38,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRecord.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\TransactionRecord.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\TransactionRecord.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\TransactionRecord.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Models\\TransactionRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:24:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FeeTransactionRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwGAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:37:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IFeeTransactionRepository.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
               "RelativeToolTip": "CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:25:12.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T14:25:12.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FessResponseDto.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
@@ -51,12 +84,11 @@
               "RelativeToolTip": "CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:09:47.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T14:09:47.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Program.cs",
@@ -64,8 +96,7 @@
               "RelativeToolTip": "CampusConnectAPI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:54:10.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T12:54:10.675Z"
             }
           ]
         }

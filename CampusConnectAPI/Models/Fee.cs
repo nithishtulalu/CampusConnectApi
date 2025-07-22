@@ -12,6 +12,6 @@ namespace CampusConnectAPI.Models
         public DateTime DueDate { get; set; }
 
         public User User { get; set; }
-        public ICollection<Transaction> Transactions { get; set; }
+        public ICollection<TransactionRecord> Transactions { get; set; }
     }
 }
