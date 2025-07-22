@@ -1,0 +1,229 @@
+[
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.AttendanceController",
+    "Method": "MarkAttendance",
+    "RelativePath": "api/Attendance/mark",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.Attendance.MarkAttendanceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.AttendanceController",
+    "Method": "GetUserAttendance",
+    "RelativePath": "api/Attendance/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "CampusConnectAPI.DTOs.Auth.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.AuthController",
+    "Method": "Me",
+    "RelativePath": "api/auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "CampusConnectAPI.DTOs.Auth.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/CourseEnrollment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.CourseEnrollment.UpdateCourseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "CreateCourse",
+    "RelativePath": "api/CourseEnrollment/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.CourseEnrollment.CreateCourseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "GetCourses",
+    "RelativePath": "api/CourseEnrollment/Courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "GetCourseById",
+    "RelativePath": "api/CourseEnrollment/Courses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "EnrollUser",
+    "RelativePath": "api/CourseEnrollment/enrollments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.CourseEnrollment.EnrollDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.CourseEnrollmentController",
+    "Method": "GetUserEnrollments",
+    "RelativePath": "api/CourseEnrollment/enrollments/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.SubjectGradeController",
+    "Method": "GetSubject",
+    "RelativePath": "api/SubjectGrade",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.SubjectGradeController",
+    "Method": "SubmitGraf",
+    "RelativePath": "api/SubjectGrade/grades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.SubGrade.SubmitGradeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.SubjectGradeController",
+    "Method": "GetUserGrade",
+    "RelativePath": "api/SubjectGrade/grades/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.SubjectGradeController",
+    "Method": "AddSubjects",
+    "RelativePath": "api/SubjectGrade/subjects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.SubGrade.CreateSubjectDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
