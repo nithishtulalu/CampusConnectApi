@@ -23,6 +23,8 @@ builder.Services.AddScoped<ISubjectGradeRepository, SubjectGradeRepository>();
 builder.Services.AddScoped<ISubjectGradeService , SubjectGradeService>();
 builder.Services.AddScoped<IAttendanceRepository ,AttendanceRepository>();
 builder.Services.AddScoped<IAttendanceService ,AttendanceService>();
+builder.Services.AddScoped<IFeeTransactionRepository ,FeeTransactionRepository>();
+builder.Services.AddScoped<IFeeTransactionService ,FeeTransactionService>();
 
 //Jwt   Related   Code  
 

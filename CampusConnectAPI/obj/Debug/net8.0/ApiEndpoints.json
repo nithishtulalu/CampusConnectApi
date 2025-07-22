@@ -169,6 +169,54 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CampusConnectAPI.Controllers.FeeTransactionController",
+    "Method": "GetUserFee",
+    "RelativePath": "api/FeeTransaction/fees/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.FeeTransactionController",
+    "Method": "MakePayment",
+    "RelativePath": "api/FeeTransaction/transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.FeesTransactions.TransactionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.FeeTransactionController",
+    "Method": "GetUserTransaction",
+    "RelativePath": "api/FeeTransaction/transaction/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CampusConnectAPI.Controllers.SubjectGradeController",
     "Method": "GetSubject",
     "RelativePath": "api/SubjectGrade",
