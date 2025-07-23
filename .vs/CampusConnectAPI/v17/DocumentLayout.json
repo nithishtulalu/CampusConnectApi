@@ -3,60 +3,48 @@
   "WorkspaceRootPath": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\courseenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\courseenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\feetransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\feetransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\implementation\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\implementation\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\implementation\\feetransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\implementation\\feetransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\interfaces\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\interfaces\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\interfaces\\ifeetransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\interfaces\\ifeetransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\interfaces\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\interfaces\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\implementation\\feetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\implementation\\feetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\interfaces\\ifeetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\interfaces\\ifeetransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\feestransactions\\studentpaymnetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\feestransactions\\studentpaymnetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\feestransactions\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\feestransactions\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\feestransactions\\transactionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\feestransactions\\transactionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\feestransactions\\fessresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\feestransactions\\fessresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\implementation\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\implementation\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\library\\borrowhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\library\\borrowhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\library\\borrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\library\\borrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\library\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\library\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\borrowhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\borrowhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,182 +63,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CourseEnrollmentController.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:40:06.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFeeTransactionRepository.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Repositories\\Interfaces\\IFeeTransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:25:12.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FeeTransactionRepository.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Repositories\\implementation\\FeeTransactionRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwCoAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:37:39.621Z",
+              "WhenOpened": "2025-07-23T14:33:30.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FeeTransactionController.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:52:58.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentPaymnetRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\StudentPaymnetRequestDto.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\FeesTransactions\\StudentPaymnetRequestDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\StudentPaymnetRequestDto.cs",
-              "RelativeToolTip": "CampusConnectAPI\\DTOs\\FeesTransactions\\StudentPaymnetRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:18:35.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Fee.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Fee.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\Fee.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Fee.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Models\\Fee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:40:30.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFeeTransactionService.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\IFeeTransactionService.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\Interfaces\\IFeeTransactionService.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\IFeeTransactionService.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Services\\Interfaces\\IFeeTransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:48:36.85Z",
+              "WhenOpened": "2025-07-23T14:28:55.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FeeTransactionService.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\FeeTransactionService.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\implementation\\FeeTransactionService.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\FeeTransactionService.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Services\\implementation\\FeeTransactionService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:49:34.3Z",
+              "WhenOpened": "2025-07-23T14:27:32.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TransactionRecord.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\TransactionRecord.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\TransactionRecord.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\TransactionRecord.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Models\\TransactionRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:24:13.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransactionResponseDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionResponseDto.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionResponseDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionResponseDto.cs",
-              "RelativeToolTip": "CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:26:42.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TransactionRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionRequestDto.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionRequestDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionRequestDto.cs",
-              "RelativeToolTip": "CampusConnectAPI\\DTOs\\FeesTransactions\\TransactionRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:23:25.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FessResponseDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
-              "RelativeToolTip": "CampusConnectAPI\\DTOs\\FeesTransactions\\FessResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:09:47.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Program.cs",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
               "RelativeToolTip": "CampusConnectAPI\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:54:10.675Z"
+              "WhenOpened": "2025-07-23T13:55:08.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\User.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\User.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LibraryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:52:15.816Z"
+              "WhenOpened": "2025-07-23T13:55:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:51:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowHistoryDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:49:26.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowRequestDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:48:06.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookResponseDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:46:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowHistory.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\BorrowHistory.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\BorrowHistory.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\BorrowHistory.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Models\\BorrowHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:29.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Book.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:12.563Z",
+              "EditorCaption": ""
             }
           ]
         }
