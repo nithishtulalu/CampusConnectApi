@@ -327,17 +327,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/TransactionRequestDto"
+                "$ref": "#/components/schemas/StudentPaymnetRequestDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/TransactionRequestDto"
+                "$ref": "#/components/schemas/StudentPaymnetRequestDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/TransactionRequestDto"
+                "$ref": "#/components/schemas/StudentPaymnetRequestDto"
               }
             }
           }
@@ -575,6 +575,24 @@
         },
         "additionalProperties": false
       },
+      "StudentPaymnetRequestDto": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "amountPaid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "paymentMethod": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "SubmitGradeDto": {
         "type": "object",
         "properties": {
@@ -601,24 +619,6 @@
           "gradeOn": {
             "type": "string",
             "format": "date-time"
-          }
-        },
-        "additionalProperties": false
-      },
-      "TransactionRequestDto": {
-        "type": "object",
-        "properties": {
-          "feeId": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "amountPaid": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "paymentMethod": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false

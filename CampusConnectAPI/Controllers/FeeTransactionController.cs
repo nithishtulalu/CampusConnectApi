@@ -26,10 +26,10 @@ namespace CampusConnectAPI.Controllers
 
         [Authorize (Roles ="Student")]
         [HttpPost("transaction")]
-        public async Task<IActionResult> MakePayment(TransactionRequestDto dto)
+        public async Task<IActionResult> MakePayment(StudentPaymnetRequestDto dto)
         {
-            var payment= await _Service.MakePaymentAsync(dto);
-            return payment == null ? BadRequest("Fee Record not Found") : Ok(payment);
+            var payment= await _Service.MakePaymentByStudentAsync(dto);
+            return payment == null ? BadRequest("Payment Failed Must be studenbt with  valid enrollment") : Ok(payment);
         }
 
         [Authorize]

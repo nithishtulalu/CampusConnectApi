@@ -40,34 +40,57 @@ namespace CampusConnectAPI.Repositories.implementation
                 return null;
             }
         }
-        public async Task<TransactionResponseDto> MakePaymentAsync(TransactionRequestDto dto)
+        public async Task<TransactionResponseDto> MakePaymentByStudentAsync(StudentPaymnetRequestDto dto)
         {
             try
             {
-        
-                var fee= await _context.Fees.FindAsync(dto.FeeId);
-                if (fee == null)
+                var user= await _context.Users
+                    .Include(u=>u.Role)
+                    .FirstOrDefaultAsync(u=>u.UserId==dto.UserId);
+                if (user == null || user.Role.RoleName != "Student")
                     return null;
+                var enrollment= await _context.Enrollments
+                    .Include(e=>e.Course)
+                    .FirstOrDefaultAsync(e=>e.UserId==dto.UserId);
 
+                if(enrollment == null)
+                    return  null ;
+                int creditrate = 10000;
+                int credits=enrollment.Course.Credits;
+                int calacluteDue=credits+creditrate;
+
+                var fee= await _context.Fees.FirstOrDefaultAsync(f=>f.UserId==dto.UserId);
+                if(fee == null)
+                {
+                    fee = new Fee
+                    {
+                        FeeId = Guid.NewGuid(),
+                        UserId = dto.UserId,
+                        AmountDue = calacluteDue,
+                        DueDate = DateTime.UtcNow.AddDays(40)
+                    };
+                    _context.Fees.Add(fee);
+                    await _context.SaveChangesAsync();
+                }
                 var transaction = new TransactionRecord
                 {
-                    TransactionId=Guid.NewGuid(),
-                    FeeId=dto.FeeId,
-                    AmountPaid=dto.AmountPaid,
-                    PaymentDate=DateTime.UtcNow,
-                    PaymentMethod=dto.PaymentMethod
-
+                    TransactionId = Guid.NewGuid(),
+                    FeeId = fee.FeeId,
+                    AmountPaid = dto.AmountPaid,
+                    PaymentDate = DateTime.UtcNow,
+                    PaymentMethod = dto.PaymentMethod
                 };
                 _context.Transactions.Add(transaction);
                 await _context.SaveChangesAsync();
-
                 return new TransactionResponseDto
                 {
                     TransactionId = transaction.TransactionId,
                     AmountPaid = transaction.AmountPaid,
-                    PaymentMethod = transaction.PaymentMethod,
                     PaymentDate = transaction.PaymentDate,
+                    PaymentMethod = transaction.PaymentMethod
                 };
+
+
             }
             catch (Exception ex)
             {
