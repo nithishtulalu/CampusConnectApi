@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\subjectgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\subjectgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\feetransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\feetransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\courseenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\courseenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\eventregistactiondto\\eventregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\eventregistactiondto\\eventregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\eventregistactiondto\\eventregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\eventregistactiondto\\eventregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\eventregistactiondto\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\dtos\\eventregistactiondto\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\services\\implementation\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\repositories\\implementation\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\repositories\\implementation\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|solutionrelative:campusconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17BB7D1-32BC-4113-A479-8AF9F53CD860}|CampusConnectAPI\\CampusConnectAPI.csproj|d:\\asp .net core web api\\campusconnectapi\\campusconnectapi\\dtos\\library\\borrowhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +126,241 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectGradeController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\SubjectGradeController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\SubjectGradeController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\SubjectGradeController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\SubjectGradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:23:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\EventsController.cs*",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\EventsController.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:09:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseEnrollmentController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\CourseEnrollmentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:23:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:23:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeeTransactionController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\FeeTransactionController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Program.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:55:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LibraryController.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\LibraryController.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\LibraryController.cs",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\LibraryController.cs",
               "RelativeToolTip": "CampusConnectAPI\\Controllers\\LibraryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T14:33:30.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:23:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\EventService.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\implementation\\EventService.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\EventService.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Services\\implementation\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:05:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:04:15.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Repositories\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:06:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\EventRepository.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\implementation\\EventRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\EventRepository.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Repositories\\implementation\\EventRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:10:20.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRegistrationDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegistrationDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegistrationDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegistrationDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegistrationDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:02:26.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegisterRequestDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegisterRequestDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventRegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:04:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventResponseDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventResponseDto.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventResponseDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventResponseDto.cs",
+              "RelativeToolTip": "CampusConnectAPI\\DTOs\\EventRegistactionDto\\EventResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:00:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CampusConnectAPI\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:52:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\EventRegistration.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\EventRegistration.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Models\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:57:24.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\Event.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Event.cs",
+              "RelativeToolTip": "CampusConnectAPI\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:57:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "LibraryService.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
@@ -83,12 +368,11 @@
               "RelativeToolTip": "CampusConnectAPI\\Services\\implementation\\LibraryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:28:55.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:28:55.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "ILibraryService.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
@@ -96,25 +380,11 @@
               "RelativeToolTip": "CampusConnectAPI\\Services\\Interfaces\\ILibraryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:27:32.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:27:32.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CampusConnectAPI\\Program.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Program.cs",
-              "RelativeToolTip": "CampusConnectAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:55:08.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "LibraryRepository.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
@@ -122,12 +392,11 @@
               "RelativeToolTip": "CampusConnectAPI\\Repositories\\implementation\\LibraryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:55:04.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:55:04.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "ILibraryRepository.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
@@ -135,12 +404,11 @@
               "RelativeToolTip": "CampusConnectAPI\\Repositories\\Interfaces\\ILibraryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:51:03.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:51:03.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "BorrowHistoryDto.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
@@ -148,12 +416,11 @@
               "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BorrowHistoryDto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:49:26.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:49:26.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "BorrowRequestDto.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
@@ -161,12 +428,11 @@
               "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BorrowRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:48:06.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:48:06.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "BookResponseDto.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
@@ -174,12 +440,11 @@
               "RelativeToolTip": "CampusConnectAPI\\DTOs\\Library\\BookResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:46:08.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:46:08.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "BorrowHistory.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\BorrowHistory.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\BorrowHistory.cs",
@@ -187,12 +452,11 @@
               "RelativeToolTip": "CampusConnectAPI\\Models\\BorrowHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:31:29.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:31:29.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\CampusConnectAPI\\CampusConnectAPI\\Models\\Book.cs",
               "RelativeDocumentMoniker": "CampusConnectAPI\\Models\\Book.cs",
@@ -200,8 +464,7 @@
               "RelativeToolTip": "CampusConnectAPI\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:31:12.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:31:12.563Z"
             }
           ]
         }

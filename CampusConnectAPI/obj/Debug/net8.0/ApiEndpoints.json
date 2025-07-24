@@ -169,6 +169,48 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CampusConnectAPI.Controllers.EventsController",
+    "Method": "GetEvent",
+    "RelativePath": "api/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.EventsController",
+    "Method": "RegsterForEvent",
+    "RelativePath": "api/Events/rigister",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.EventRegistactionDto.EventRegisterRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.EventsController",
+    "Method": "GetUserRegistreations",
+    "RelativePath": "api/Events/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CampusConnectAPI.Controllers.FeeTransactionController",
     "Method": "GetUserFee",
     "RelativePath": "api/FeeTransaction/fees/user/{userId}",
@@ -204,6 +246,48 @@
     "ContainingType": "CampusConnectAPI.Controllers.FeeTransactionController",
     "Method": "GetUserTransaction",
     "RelativePath": "api/FeeTransaction/transaction/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.LibraryController",
+    "Method": "GetAvailableBooks",
+    "RelativePath": "api/Library/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.LibraryController",
+    "Method": "BorrowBook",
+    "RelativePath": "api/Library/borrow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CampusConnectAPI.DTOs.Library.BorrowRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampusConnectAPI.Controllers.LibraryController",
+    "Method": "GetBorrowHistory",
+    "RelativePath": "api/Library/borrow/user/{userId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

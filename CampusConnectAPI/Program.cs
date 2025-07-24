@@ -25,6 +25,11 @@ builder.Services.AddScoped<IAttendanceRepository ,AttendanceRepository>();
 builder.Services.AddScoped<IAttendanceService ,AttendanceService>();
 builder.Services.AddScoped<IFeeTransactionRepository ,FeeTransactionRepository>();
 builder.Services.AddScoped<IFeeTransactionService ,FeeTransactionService>();
+builder.Services.AddScoped<ILibraryRepository , LibraryRepository>();
+builder.Services.AddScoped<ILibraryService , LibraryService>();
+builder.Services.AddScoped<IEventRepository , EventRepository>();
+builder.Services.AddScoped<IEventService , EventService>();
+
 
 //Jwt   Related   Code  
 
