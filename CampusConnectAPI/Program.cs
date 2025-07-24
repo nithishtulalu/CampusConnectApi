@@ -29,6 +29,8 @@ builder.Services.AddScoped<ILibraryRepository , LibraryRepository>();
 builder.Services.AddScoped<ILibraryService , LibraryService>();
 builder.Services.AddScoped<IEventRepository , EventRepository>();
 builder.Services.AddScoped<IEventService , EventService>();
+builder.Services.AddScoped<ISupportRepository ,ISupportRepository>();
+builder.Services.AddScoped<ISupportService ,ISupportService>();
 
 
 //Jwt   Related   Code  
