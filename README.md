@@ -27,8 +27,8 @@ CampusConnectAPI is a robust, modular backend system built with **ASP.NET Core**
 
 - ASP.NET Core Web API
 - Entity Framework Core
-- SQL Server (or SQLite for local dev)
-- Swagger (OpenAPI)
+- SQL Server 
+- Swagger 
 - Postman test flows
 
 ## 📂 Folder Structure
