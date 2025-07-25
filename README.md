@@ -15,7 +15,7 @@ CampusConnectAPI is a robust, modular backend system built with **ASP.NET Core**
 | 📚 Library     | Borrow/return books, view history                                         |
 | 🎉 Events      | View upcoming events, register, list user events                          |
 | 💬 Support     | Submit contacts, feedback, and view FAQs                                  |
-|---------------------------------------------------------------------------------------------|
+
 
 ## 🔐 Authentication & Roles
 
